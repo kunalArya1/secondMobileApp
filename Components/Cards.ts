@@ -36,3 +36,25 @@ export const FixedCardStyle = StyleSheet.create({
     borderRadius: 10,
   },
 });
+
+export const SCardsStyle = StyleSheet.create({
+  container: {
+    // height: 180,
+    // width: '100%',
+    flexDirection: 'row',
+    margin: 10,
+    paddingHorizontal: 10,
+  },
+  card: {
+    height: 150,
+    width: 130,
+    backgroundColor: 'red',
+    flex: 0,
+    justifyContent: 'center',
+    alignItems: 'center',
+    margin: 10,
+    borderRadius: 10,
+  },
+});
+
+export const BlogCStyle = StyleSheet.create({});
