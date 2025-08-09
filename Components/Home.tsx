@@ -10,9 +10,10 @@ const Home = () => {
         <Text
           style={{
             fontSize: 20,
-            textAlign: 'center',
+            textAlign: 'left',
             fontWeight: 'bold',
             color: '#ffffff',
+            padding: 10,
           }}
         >
           User Detials
