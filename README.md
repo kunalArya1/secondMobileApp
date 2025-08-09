@@ -88,5 +88,4 @@ To learn more about React Native and improve this project:
 ---
 
 **Author**: Kunal Arya  
-**Framework**: React Native 0.80.2  
-**Last Updated**: 2024
+**Framework**: React Native 0.80.2
